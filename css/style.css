@@ -4,16 +4,13 @@ body{
 }
 h1{
     font-size: 60px;
-    opacity: 65%;
-    
-    
+    opacity: 65%;       
 }
 p{
     font-size: 18px;
     opacity: 60%;
     margin-bottom: 70px;
-    font-weight: 500;
-    
+    font-weight: 500;   
 }
 .banner-section{
     display: flex;
@@ -48,8 +45,7 @@ p{
     padding: 20px 40px;
     border-radius: 30px;
     font-weight: 600;
-    box-shadow: 0px 0px 20px #f0a26f;
-    
+    box-shadow: 0px 0px 20px #f0a26f;    
 }
 .about-chef{
     display: flex;
@@ -91,8 +87,7 @@ h2{
     width: 100%;
 }
 h3{
-    font-size: 23px;
-      
+    font-size: 23px;      
 }
 .recipies-title-parts{
     width: 90%;
@@ -134,9 +129,7 @@ margin-bottom: 32px;
     padding-right: 60px;
     border: 1px solid orange;
     border-radius: 10px;
-    margin-left: 125px; 
-    
-    
+    margin-left: 125px;     
 }
 .input-subscribe{
     color: white;
@@ -150,13 +143,11 @@ margin-bottom: 32px;
     box-shadow: 0px 0px 20px rgb(255, 156, 90);
 }
 .form-text{
-    display: flex;
-    
+    display: flex;    
 }
 .blog-text{
     display: flex;
-    margin-bottom: 150px;
-    
+    margin-bottom: 150px;    
 }
 .blog h1{
     text-align: center;
@@ -182,7 +173,6 @@ margin-bottom: 32px;
     box-shadow: 0px 0px 20px #d8d4d4;
     margin-bottom: 100px;
     border-radius: 20px;
-
 }
 .subscribers{
     margin-left: 150px;
@@ -195,5 +185,4 @@ margin-bottom: 32px;
 #paragraph-footer{
     font-size: 12px;
     font-weight: 100;
-
 }
