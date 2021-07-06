@@ -6,11 +6,13 @@ h1{
     font-size: 60px;
     opacity: 65%;
     
+    
 }
 p{
     font-size: 18px;
-    opacity: 50%;
+    opacity: 60%;
     margin-bottom: 70px;
+    font-weight: 500;
     
 }
 .banner-section{
@@ -25,6 +27,7 @@ p{
 }
 .half-item img{
     width: 100%;
+    margin-left: 15px;
 }
 .half-item-chef img{
     width: 60%;
@@ -33,6 +36,7 @@ p{
 .text-part{
     margin-top: 110px;
     margin-left: 100px;
+    padding-right: 5px;
 }
 .orange{
     color: #ff7b00;
@@ -40,9 +44,11 @@ p{
 .button{
     color: white;
     text-decoration: none;
-    background-image: linear-gradient(to right, #FF8040,#FF6347);
-    padding: 18px 40px;
+    background-image: linear-gradient(to right, #ff9d42,#fd4a2b);
+    padding: 20px 40px;
     border-radius: 30px;
+    font-weight: 600;
+    box-shadow: 0px 0px 20px #f0a26f;
     
 }
 .about-chef{
@@ -57,7 +63,10 @@ p{
 .text-chef{
     margin-right: 150px;
     margin-left: 0;
-    margin-top: 60px;
+    margin-top: 80px;
+}
+.text-chef h1{
+    font-size: 40px;
 }
 .my-recipies{
     text-align: center;
@@ -94,15 +103,18 @@ h3{
 }
 .footer-part{
     text-align: center;
-    background-color: #000102;
+    background-color: #03000e;
     padding-top: 30px;
     padding-bottom: 40px;
 }
 .footer-part h2{
 color: gray;
+font-size: 28px;
+margin-bottom: 32px;
 }
 .footer-part p{
     color: #ebe8e8;
+    font-size: 15px;
     }
 #food{
     background: -webkit-linear-gradient(#f5c88d, #ff6600);
@@ -117,22 +129,25 @@ color: gray;
     margin-top: 100px;
 }
 .input-email{
-    font-size: 15px;
+    font-size: 17px;
     padding: 10px;
     padding-right: 60px;
     border: 1px solid orange;
-    border-radius: 5px;
-    margin-left: 150px;
+    border-radius: 10px;
+    margin-left: 125px; 
+    
     
 }
 .input-subscribe{
     color: white;
     padding: 10px 30px;
-    font-size: 15px;
-    background-image: linear-gradient(to right, #FF8040,#FF6347);
-    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 600;
+    background-image: linear-gradient(to right, #f8ac48,#ff4800);
+    border-radius: 10px;
     border: none;
     margin-left: 20px;
+    box-shadow: 0px 0px 20px rgb(255, 156, 90);
 }
 .form-text{
     display: flex;
